@@ -8,7 +8,7 @@ public class Player : MonoBehaviour {
     public float flap = 550f;
     public float scroll = 10f;
     float direction = 0f;
-    bool jump = false;
+    int jump = 0;
     Rigidbody2D rb2d;
 
 
@@ -26,39 +26,22 @@ public class Player : MonoBehaviour {
         if (Input.GetKey(KeyCode.RightArrow))
         {
             direction = 1f;
+            turn();
         }else if (Input.GetKey(KeyCode.LeftArrow))
         {
             direction = -1f;
+            turn();
         }else 
         {
             direction = 0f;
             //direction2 = 0f;
         }
 
-        if (Input.GetKeyDown("space") && !jump)
+        if (Input.GetKeyDown("space") && jump < 2)
         {
             rb2d.AddForce(Vector2.up * flap);
-            jump = true
+            jump ++;
         }
-
-        // //スマホ操作
-        // if (Input.touchCount > 0)
-        // {
-        //     Touch touch = Input.GetTouch(0);
-        //     //画面右半分をタッチしていたら
-        //     if(touch.position.x > Screen.width * 0.5f)
-        //     {
-        //         direction = 1f;
-        //     //画面左半分をタッチしていたら
-        //     }else if (touch.position.x < Screen.width * 0.5f)
-        //     {
-        //         direction = -1f;
-        //     }
-        //     else
-        //     {
-        //         direction = 0f;
-        //     }
-        // }
 
         //キャラのy軸のdirection方向にscrollの力をかける
         rb2d.velocity = new Vector2(scroll * direction, rb2d.velocity.y);
@@ -66,6 +49,17 @@ public class Player : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D other)
     {
-        jump = false;
+        jump = 0;
+    }
+
+    void turn() {
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        Vector2 lscale = gameObject.transform.localScale;
+        if ((lscale.x > 0 && moveHorizontal < 0)
+            || (lscale.x < 0 && moveHorizontal > 0))
+        {
+            lscale.x *= -1;
+            gameObject.transform.localScale = lscale;
+        }
     }
 }
