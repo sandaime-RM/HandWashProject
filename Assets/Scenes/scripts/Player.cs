@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+
 
 public class Player : MonoBehaviour {
 
@@ -60,6 +62,14 @@ public class Player : MonoBehaviour {
         {
             lscale.x *= -1;
             gameObject.transform.localScale = lscale;
+        }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.tag == "Door")
+        {
+           SceneManager.LoadScene("ShoppingStreet");
         }
     }
 }
