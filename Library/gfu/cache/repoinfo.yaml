@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-03T17:37:07.225+09:00
-  initializedAtString: 2021-08-03T17:37:07.225+09:00
+  lastUpdatedAtString: 2021-08-08T12:13:17.139+09:00
+  initializedAtString: 2021-08-08T12:13:17.139+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/sandaime-RM/HandWashProject.git
