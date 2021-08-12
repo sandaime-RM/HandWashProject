@@ -18,6 +18,9 @@ public class Player : MonoBehaviour {
     void Start () {
         //コンポーネント読み込み
         rb2d = GetComponent<Rigidbody2D>();
+
+        //シーンを切り替えても削除しない
+        DontDestroyOnLoad(gameObject);
     }
 
 
@@ -67,8 +70,10 @@ public class Player : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
+        Debug.Log("You hit something!");
         if(other.gameObject.tag == "Door")
         {
+            Debug.Log("You hit the door!");
            SceneManager.LoadScene("ShoppingStreet");
         }
     }

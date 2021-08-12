@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-08-10T18:21:52.564+09:00
-  initializedAtString: 2021-08-10T18:21:49.944+09:00
+  lastUpdatedAtString: 2021-08-12T21:45:19.544+09:00
+  initializedAtString: 2021-08-12T21:45:18.415+09:00
   entries:
   - path: Assets\Scenes\House.unity
     fullPath: C:\Users\sienr\Desktop\HandWash\Assets\Scenes\House.unity
@@ -22,165 +22,57 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scenes\scripts\Player.cs
+    fullPath: C:\Users\sienr\Desktop\HandWash\Assets\Scenes\scripts\Player.cs
+    projectPath: Assets\Scenes\scripts\Player.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Title.unity
+    fullPath: C:\Users\sienr\Desktop\HandWash\Assets\Scenes\Title.unity
+    projectPath: Assets\Scenes\Title.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Title.unity.meta
+    fullPath: C:\Users\sienr\Desktop\HandWash\Assets\Scenes\Title.unity.meta
+    projectPath: Assets\Scenes\Title.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\sienr\Desktop\HandWash\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\1b\1b77469b8c2cbbab927d97896d428798
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\1b\1b77469b8c2cbbab927d97896d428798
-    projectPath: Library\Artifacts\1b\1b77469b8c2cbbab927d97896d428798
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1d\1df332e2a4dd65ee828d99eec18176a2
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\1d\1df332e2a4dd65ee828d99eec18176a2
-    projectPath: Library\Artifacts\1d\1df332e2a4dd65ee828d99eec18176a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\23\234ba5feb5d5b3407be82f72a18a7792
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\23\234ba5feb5d5b3407be82f72a18a7792
-    projectPath: Library\Artifacts\23\234ba5feb5d5b3407be82f72a18a7792
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3c\3c36dfc4b049d1bc4bdfea50773dd42e
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\3c\3c36dfc4b049d1bc4bdfea50773dd42e
-    projectPath: Library\Artifacts\3c\3c36dfc4b049d1bc4bdfea50773dd42e
+  - path: Library\Artifacts\9f\9f472d2ed3b2877dd709f6555a5a2933
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\9f\9f472d2ed3b2877dd709f6555a5a2933
+    projectPath: Library\Artifacts\9f\9f472d2ed3b2877dd709f6555a5a2933
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\3d\3d08da35f65b88399bdbe31444f5f380
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\3d\3d08da35f65b88399bdbe31444f5f380
-    projectPath: Library\Artifacts\3d\3d08da35f65b88399bdbe31444f5f380
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\43\439dfffe4d26c8ea237b3eb15fc89446
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\43\439dfffe4d26c8ea237b3eb15fc89446
-    projectPath: Library\Artifacts\43\439dfffe4d26c8ea237b3eb15fc89446
+  - path: Library\Artifacts\f1\f14dfcfd028a5f7965a8265d3ebe9c9e
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\f1\f14dfcfd028a5f7965a8265d3ebe9c9e
+    projectPath: Library\Artifacts\f1\f14dfcfd028a5f7965a8265d3ebe9c9e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\46\46d0d232fa7c2550afc20c52f1baa15b
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\46\46d0d232fa7c2550afc20c52f1baa15b
-    projectPath: Library\Artifacts\46\46d0d232fa7c2550afc20c52f1baa15b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\4c\4ca23c2ff0cc9005b4e6537e3a64c587
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\4c\4ca23c2ff0cc9005b4e6537e3a64c587
-    projectPath: Library\Artifacts\4c\4ca23c2ff0cc9005b4e6537e3a64c587
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5b\5b148428c97fdc31a224e9881e745685
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\5b\5b148428c97fdc31a224e9881e745685
-    projectPath: Library\Artifacts\5b\5b148428c97fdc31a224e9881e745685
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\60caf2b2b904fbf41b45e3e41fcc65b0
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\60\60caf2b2b904fbf41b45e3e41fcc65b0
-    projectPath: Library\Artifacts\60\60caf2b2b904fbf41b45e3e41fcc65b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\62\622554c7f7bc23e6592ef04e421261cd
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\62\622554c7f7bc23e6592ef04e421261cd
-    projectPath: Library\Artifacts\62\622554c7f7bc23e6592ef04e421261cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\69\694fbdf28ac415807b1f40e640823f27
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\69\694fbdf28ac415807b1f40e640823f27
-    projectPath: Library\Artifacts\69\694fbdf28ac415807b1f40e640823f27
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6d\6db03e7c7596b25f4109c83444d8ee1b
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\6d\6db03e7c7596b25f4109c83444d8ee1b
-    projectPath: Library\Artifacts\6d\6db03e7c7596b25f4109c83444d8ee1b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\75\75cc344f0f3dc81a722439ba2a39b6ef
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\75\75cc344f0f3dc81a722439ba2a39b6ef
-    projectPath: Library\Artifacts\75\75cc344f0f3dc81a722439ba2a39b6ef
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\7d\7d6dbf615af03962efcafffb22eeaed8
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\7d\7d6dbf615af03962efcafffb22eeaed8
-    projectPath: Library\Artifacts\7d\7d6dbf615af03962efcafffb22eeaed8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\85\85c5483de9839a9c90fd1f146dd6f61a
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\85\85c5483de9839a9c90fd1f146dd6f61a
-    projectPath: Library\Artifacts\85\85c5483de9839a9c90fd1f146dd6f61a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9a\9a99c27b5c453d0e9784a8c54eed9603
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\9a\9a99c27b5c453d0e9784a8c54eed9603
-    projectPath: Library\Artifacts\9a\9a99c27b5c453d0e9784a8c54eed9603
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a6\a6ccdb1384cf8973754c4ad0c7991199
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\a6\a6ccdb1384cf8973754c4ad0c7991199
-    projectPath: Library\Artifacts\a6\a6ccdb1384cf8973754c4ad0c7991199
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\be\bef51dec7ca1ebe17011f477a909a6d9
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\be\bef51dec7ca1ebe17011f477a909a6d9
-    projectPath: Library\Artifacts\be\bef51dec7ca1ebe17011f477a909a6d9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
-    projectPath: Library\Artifacts\c1\c18d5f460ad370a2219303c73f9d1b7a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf360cee062433c89d46e4ddc47ca9ba
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\cf\cf360cee062433c89d46e4ddc47ca9ba
-    projectPath: Library\Artifacts\cf\cf360cee062433c89d46e4ddc47ca9ba
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\dc\dcb969734e5938fc1240d993d69f8b1d
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\dc\dcb969734e5938fc1240d993d69f8b1d
-    projectPath: Library\Artifacts\dc\dcb969734e5938fc1240d993d69f8b1d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef1a46b6683dcb98972fa8e1cf0be948
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\ef\ef1a46b6683dcb98972fa8e1cf0be948
-    projectPath: Library\Artifacts\ef\ef1a46b6683dcb98972fa8e1cf0be948
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f9\f9273cc086ebc599884b8403323cba5c
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\Artifacts\f9\f9273cc086ebc599884b8403323cba5c
-    projectPath: Library\Artifacts\f9\f9273cc086ebc599884b8403323cba5c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\EditorInstance.json
     fullPath: C:\Users\sienr\Desktop\HandWash\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,15 +94,87 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\PackageCache\com.unity.test-framework@1.1.24\UnityEditor.TestRunner\PlayModeStateChangedExample.cs
-    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PackageCache\com.unity.test-framework@1.1.24\UnityEditor.TestRunner\PlayModeStateChangedExample.cs
-    projectPath: Library\PackageCache\com.unity.test-framework@1.1.24\UnityEditor.TestRunner\PlayModeStateChangedExample.cs
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\level0
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\level1
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\level1
+    projectPath: Library\PlayerDataCache\Win64\Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\sienr\Desktop\HandWash\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -226,45 +190,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs\AssetImportWorker0.log
-    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\AssetImportWorker0.log
-    projectPath: Logs\AssetImportWorker0.log
+  - path: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\sienr\Desktop\HandWash\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
+  - path: Logs\ApiUpdaterCheck.txt
+    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\ApiUpdaterCheck.txt
+    projectPath: Logs\ApiUpdaterCheck.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\sienr\Desktop\HandWash\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker1-prev.log
-    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\AssetImportWorker1-prev.log
-    projectPath: Logs\AssetImportWorker1-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\AssetImportWorker2-prev.log
-    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\AssetImportWorker2-prev.log
-    projectPath: Logs\AssetImportWorker2-prev.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs\shadercompiler-AssetImportWorker0.log
-    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\shadercompiler-AssetImportWorker0.log
-    projectPath: Logs\shadercompiler-AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\sienr\Desktop\HandWash\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\sienr\Desktop\HandWash\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\sienr\Desktop\HandWash\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\UnityLockfile
     fullPath: C:\Users\sienr\Desktop\HandWash\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\sienr\Desktop\HandWash\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\EditorUserSettings.asset
+    fullPath: C:\Users\sienr\Desktop\HandWash\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

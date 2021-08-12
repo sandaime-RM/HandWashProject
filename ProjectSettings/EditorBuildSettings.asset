@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/House.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ShoppingStreet.unity
+    guid: a66b04cabf110f24da94ef76274d0072
   m_configObjects: {}
