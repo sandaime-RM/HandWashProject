@@ -30,6 +30,7 @@ public class Player : MonoBehaviour {
         //キーボード操作
         if (Input.GetKey(KeyCode.RightArrow))
         {
+            
             direction = 1f;
             turn();
         }else if (Input.GetKey(KeyCode.LeftArrow))
@@ -70,11 +71,16 @@ public class Player : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
+        //SceneManager.LoadScene("ShoppingStreet");
         Debug.Log("You hit something!");
         if(other.gameObject.tag == "Door")
         {
             Debug.Log("You hit the door!");
            SceneManager.LoadScene("ShoppingStreet");
+        } else if(other.gameObject.tag == "LeftWall")
+        {
+            Debug.Log("You hit the left wall!");
+            SceneManager.LoadScene("House");
         }
     }
 }

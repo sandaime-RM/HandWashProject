@@ -1,0 +1,124 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'ja' Physical Memory: 7778 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/sienr/Desktop/HandWash
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59007
+Successfully changed project path to: C:/Users/sienr/Desktop/HandWash
+C:/Users/sienr/Desktop/HandWash
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 350.90 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sienr/Desktop/HandWash/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Plus Graphics (ID=0x8a5a)
+    Vendor:   
+    VRAM:     3889 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56856
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011537 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 148.34 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 12.291 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.072363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 140.95 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.090 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.16 seconds
+Refreshing native plugins compatible for Editor in 1.23 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 2561.
+Total: 5.830700 ms (FindLiveObjects: 0.411200 ms CreateObjectMapping: 0.170400 ms MarkObjects: 4.801900 ms  DeleteObjects: 0.436500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/House.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/House.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c90e2c113a8bc5193dd9d98b9f70a5e') in 0.054110 seconds
+  Import took 0.064809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.170810 seconds.
+  path: Assets/images/stores/Hanaya.png
+  artifactKey: Guid(7b3b448d31f238e48b8788769e7900b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/stores/Hanaya.png using Guid(7b3b448d31f238e48b8788769e7900b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2076819bbff5716c78921ff8de5fdb4e') in 0.452604 seconds
+  Import took 0.466657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000866 seconds.
+  path: Assets/images/stores/Sengyo.png
+  artifactKey: Guid(f88311f973eb1d14ebd1d3597f5ebcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/stores/Sengyo.png using Guid(f88311f973eb1d14ebd1d3597f5ebcc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15465aa2d7beeee4037bb58a830b30b') in 0.063430 seconds
+  Import took 0.072616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/images/stores
+  artifactKey: Guid(4afeb27c2bf658d468e58923842d08ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/stores using Guid(4afeb27c2bf658d468e58923842d08ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543763eb44a168de83c3ceb8912f29cc') in 0.024100 seconds
+  Import took 0.035925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/images/stores/Seiniku.png
+  artifactKey: Guid(361a2b8c98309d44193a8146acbbf9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/stores/Seiniku.png using Guid(361a2b8c98309d44193a8146acbbf9d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e709c7a5f221065effd5ca9d7f7cd8fc') in 0.081879 seconds
+  Import took 0.091041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000913 seconds.
+  path: Assets/images/stores/Yaoya.png
+  artifactKey: Guid(9ca72d58e7d50d64abcd35b7478317ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/images/stores/Yaoya.png using Guid(9ca72d58e7d50d64abcd35b7478317ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063e2e1ea8f938f23699f476bf8fe9f4') in 0.072934 seconds
+  Import took 0.084469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.151395 seconds.
+  path: Assets/Scenes/ShoppingStreet.unity
+  artifactKey: Guid(a66b04cabf110f24da94ef76274d0072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ShoppingStreet.unity using Guid(a66b04cabf110f24da94ef76274d0072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '953d607089d098533f1fdc1c8840d9be') in 0.022598 seconds
+  Import took 0.032391 seconds .
+
